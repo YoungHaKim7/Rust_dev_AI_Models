@@ -97,6 +97,9 @@ docker exec -it ollama ollama run llama2
   - https://github.com/jeremychone-channel/rust-xp-ollama
 
 
+# Mistral 요즘 젤 좋다.
+
+- https://mistral.ai/
 
 # dolphin-mixtral
 - An uncensored, fine-tuned model based on the Mixtral mixture of experts model that excels at coding tasks. Created by Eric Hartford.
