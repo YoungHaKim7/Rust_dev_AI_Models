@@ -2,7 +2,7 @@
 
 # Link
 
-- 
+- [요즘 잘쓰고 있는 Tabby(NeoVim 이나 VSCode에 쓰기)](#tabby)
 
 # 여기에 정리 중
 
